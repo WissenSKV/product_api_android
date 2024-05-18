@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_paypal.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\paypal.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_item_desc.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\item_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_payment.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_input_product.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_input_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_odengi.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\odengi.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\menu_action_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\menu\\action_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_no_product_selected.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\no_product_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_description.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_red_hoodie.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\red_hoodie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_visa_mc.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\visa_mc.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_basket.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\basket.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_outline_add_box_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\outline_add_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_mbank.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\mbank.png"
+    },
+    {
+        "merged": "com.example.productAPI.app-merged_res-48:/layout_fragment_home.xml.flat",
+        "source": "com.example.productAPI.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_notifications.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\layout_fragment_basket.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\layout\\fragment_basket.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_outline_check_circle_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\outline_check_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-merged_res-48:\\drawable_place_holder_my.jpg.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.5\\com.example.productAPI.app-main-50:\\drawable\\place_holder_my.jpg"
+    }
+]
